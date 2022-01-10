@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 10 22:51:27 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-45c2-97d7-00000f310450 
+on database directory C:\פרויקטיים\Java Project Cost-Manager\derbyDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/%d7%a4%d7%a8%d7%95%d7%99%d7%a7%d7%98%d7%99%d7%99%d7%9d/Java%20Project%20Cost-Manager/ProjectCostManager2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\פרויקטיים\Java Project Cost-Manager
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
